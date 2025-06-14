@@ -1,4 +1,4 @@
-# 👨‍💻 David Zapata – Ingeniero en Formación & Creador de Simuladores Interactivos
+# 👨‍💻 David Zapata – Ingeniero de Sistemas en Formación y Futuro Desarrolador Web 
 
 ¡Hola! Soy David, un estudiante de Ingeniería de Sistemas apasionado por construir soluciones creativas, funcionales y visuales. Me encanta llevar ideas a la realidad con **Python**, **Django**, y el poder de la **interacción visual**. También he trabajado en proyectos educativos y científicos donde la lógica, la interfaz y la experiencia del usuario son clave.
 
@@ -19,8 +19,7 @@
 ### 🔬 [Simulador Interactivo de Interferencia de Young](#)
 Una app interactiva hecha con **Pygame** que permite a los usuarios experimentar visualmente con fenómenos de interferencia. Ideal para explicar conceptos complejos de forma intuitiva.
 
-### 🎓 [StudyHub](#)
-Plataforma educativa modular para gestionar cursos, lecciones, quizzes y certificados, con seguimiento al progreso de estudiantes. Backend en **Django**, interfaz en **Jinja2 + Bootstrap**.
+
 
 ### 🧪 [Simulador de Mezclas Salinas](#)
 Visualizador de procesos de tanques con ecuaciones diferenciales, flujo dinámico y representación 3D. Desarrollado con **Streamlit** y bibliotecas científicas de Python.
@@ -30,6 +29,7 @@ Visualizador de procesos de tanques con ecuaciones diferenciales, flujo dinámic
 
 ### 🎓 [StudyHub](#)
 Plataforma educativa modular para gestionar cursos, lecciones, quizzes y certificados, con seguimiento al progreso de estudiantes. Backend en **Django**, interfaz en **Jinja2 + Bootstrap**.
+
 ---
 
 ## 🛠️ Tecnologías que manejo
